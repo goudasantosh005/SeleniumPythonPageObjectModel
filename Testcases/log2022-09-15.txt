@@ -1,0 +1,20 @@
+2022-09-15 12:26:52,853 - test_SignUp.py:[19] - [INFO] - Test Sign UpStarted
+2022-09-15 12:26:53,032 - BasePage.py:[36] - [INFO] - Typing in an Element nike_XPATHwith value Test01
+2022-09-15 12:26:53,089 - BasePage.py:[36] - [INFO] - Typing in an Element puma_XPATHwith value test5678
+2022-09-15 12:26:53,146 - BasePage.py:[36] - [INFO] - Typing in an Element email_XPATHwith value test@gmail.com
+2022-09-15 12:26:53,178 - BasePage.py:[48] - [INFO] - Selecting value from an Element country_XPATHwith value India
+2022-09-15 12:26:53,230 - BasePage.py:[36] - [INFO] - Typing in an Element city_XPATHwith value Bangalore
+2022-09-15 12:26:53,283 - BasePage.py:[36] - [INFO] - Typing in an Element username_XPATHwith value username1
+2022-09-15 12:26:53,334 - BasePage.py:[36] - [INFO] - Typing in an Element password_XPATHwith value password1
+2022-09-15 12:26:53,382 - BasePage.py:[24] - [INFO] - CLicking on an Element submit_XPATH
+2022-09-15 12:26:53,382 - test_SignUp.py:[22] - [INFO] - Test Sign Up executed successfully
+2022-09-15 12:27:01,784 - test_SignUp.py:[19] - [INFO] - Test Sign UpStarted
+2022-09-15 12:27:01,843 - BasePage.py:[36] - [INFO] - Typing in an Element nike_XPATHwith value Test01
+2022-09-15 12:27:01,855 - BasePage.py:[36] - [INFO] - Typing in an Element puma_XPATHwith value test5678
+2022-09-15 12:27:01,877 - BasePage.py:[36] - [INFO] - Typing in an Element email_XPATHwith value test@gmail.com
+2022-09-15 12:27:01,891 - BasePage.py:[48] - [INFO] - Selecting value from an Element country_XPATHwith value India
+2022-09-15 12:27:01,903 - BasePage.py:[36] - [INFO] - Typing in an Element city_XPATHwith value Bangalore
+2022-09-15 12:27:01,915 - BasePage.py:[36] - [INFO] - Typing in an Element username_XPATHwith value username1
+2022-09-15 12:27:01,927 - BasePage.py:[36] - [INFO] - Typing in an Element password_XPATHwith value password1
+2022-09-15 12:27:02,168 - BasePage.py:[24] - [INFO] - CLicking on an Element submit_XPATH
+2022-09-15 12:27:02,169 - test_SignUp.py:[22] - [INFO] - Test Sign Up executed successfully

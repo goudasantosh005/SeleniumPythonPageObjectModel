@@ -1,0 +1,4 @@
+INFO     Testcases.test_carwale:test_carwale.py:32 *************Inside select card tests **********
+INFO     Pages.BasePage:BasePage.py:58 Moving to the element newcar_XPATH
+INFO     Pages.BasePage:BasePage.py:25 CLicking on an Element findnewcar_XPATH
+INFO     Pages.BasePage:BasePage.py:25 CLicking on an Element bmw_XPATH

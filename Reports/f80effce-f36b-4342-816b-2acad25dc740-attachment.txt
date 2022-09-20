@@ -1,0 +1,4 @@
+Car Name is Toyota Fortuner And the price is ₹ 32.39 Lakh
+Car Name is Toyota Innova Crysta And the price is ₹ 17.86 Lakh
+Car Name is Toyota Glanza And the price is ₹ 6.59 Lakh
+Car Name is Toyota Urban Cruiser And the price is ₹ 9.02 Lakh
