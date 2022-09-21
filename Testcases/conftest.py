@@ -57,11 +57,14 @@ def log_on_failure(request, get_browser1):
 
 @pytest.fixture(params=["chrome", "firefox"], scope="function")
 def get_browser1(request):
-    global driver
+    # global driver
+    remote_url = "http://localhost:4444/wd/hub"
     if request.param == "chrome":
-        driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
+        # driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
+        driver = webdriver.Remote(command_executor=remote_url, desired_capabilities={"browserName": "chrome"})
     if request.param == "firefox":
-        driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+        # driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())
+        driver = webdriver.Remote(command_executor=remote_url, desired_capabilities={"browserName": "firefox"})
     request.cls.driver = driver
     driver.get(configReader.readConfig("basic info", "testsiteurl"))
     driver.maximize_window()
